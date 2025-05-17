@@ -8,6 +8,7 @@
 	"assets": {
 		"directory": "./public"
 	},
+	"main": "src/index.js",
 	"compatibility_date": "2025-05-15",
 	"observability": {
 		"enabled": true
